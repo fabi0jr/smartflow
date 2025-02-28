@@ -7,10 +7,10 @@ import mysql.connector  # Biblioteca para conexão MySQL
 
 # Configurações do banco de dados
 db_config = {
-    'host': '192.168.0.69',
+    'host': 'xxx.xxx.x.xx',
     'database': 'detect_car',
-    'user': 'root',
-    'password': ''
+    'user': 'xxxxxx',
+    'password': 'xxxxx'
 }
 
 # Função para atualizar o valor no banco de dados
